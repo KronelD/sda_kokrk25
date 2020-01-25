@@ -9,7 +9,7 @@ public class ConditionsExercise {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Type one digit:");
         int digit = scanner.nextInt();
-
+//siema//
         switch (digit) {
             case 1: {
                 System.out.println("!");
